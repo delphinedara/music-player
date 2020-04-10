@@ -1,11 +1,7 @@
 const songs=[
-"bensound-acousticbreeze.mp3",
 "bensound-creativeminds.mp3",
 "bensound-goinghigher.mp3",
-"bensound-happyrock.mp3",
-"bensound-hey.mp3",
-"bensound-memories.mp3",
-"bensound-sweet.mp3"			
+"bensound-hey.mp3"
 ]
 // Song List
 const createSongList= ()=> {
